@@ -14,6 +14,6 @@ for chunk in pd.read_csv("data/raw/train.csv", chunksize=5_000_000,
     print("rows kept so far:", sum(len(p) for p in parts))
 
 df = pd.concat(parts).merge(items, on="item_nbr")
-df.to_parquet("data/processed/favorita_food.parquet")
+df.to_csv("data/processed/favorita_food.csv", index=False)
 print(df.shape)
 print(df.head())

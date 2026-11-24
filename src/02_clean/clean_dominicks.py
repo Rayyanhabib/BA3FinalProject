@@ -23,6 +23,6 @@ print(df.describe().T[["count", "mean", "min", "max"]])
 print("negative bakery rows:", (df["bakery"] < 0).sum())
 print("zero bakery rows:", (df["bakery"] == 0).sum())
 
-df.to_parquet("data/processed/dominicks_dept.parquet")
+df.to_csv("data/processed/dominicks_dept.csv", index=False)
 print(df.shape)
 print(df.head())

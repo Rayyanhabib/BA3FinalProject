@@ -137,8 +137,12 @@ The template was written for agricultural businesses. Handle these questions bri
 
 ## 9. Repository rules (from the team's Git guide)
 
-- Never work directly on `main`. Create a branch for each task and open a pull request.
-- Do not commit, push, open pull requests or merge unless the user asks.
+- **Every change must be reviewed in a pull request before it reaches `main`.** No exceptions, including small edits to this file, documentation and data.
+- Never work directly on `main`, and never push to `main`. Create a branch for each task, push the branch, and open a pull request with a clear title and description.
+- **Always create a new branch when working independently**, meaning any task done on your own or in a separate session, and before making the first edit. Start from an up-to-date `main` and name it `yourname-short-description` (lowercase, hyphens). Check with `git branch` that you are not on `main` before editing.
+- A teammate other than the author must review and approve the pull request. Assistants never approve or merge a pull request, and never merge on the author's behalf.
+- Do not commit, push or open pull requests unless the user asks.
+- If review requests changes, add new commits to the same branch. Do not force-push or open a replacement pull request.
 - GitHub rejects files over 100 MB. Share large datasets by link.
 - Prefer CSV to Excel. Keep raw data untouched and put cleaned data in a separate file.
 - Never commit passwords, API keys or personal data.
