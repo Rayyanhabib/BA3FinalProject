@@ -1,5 +1,11 @@
-data/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
 kaggle.json
+data/raw/favorita-grocery-sales-forecasting.zip
+data/raw/test.csv
+data/raw/train.csv
+data/raw/train.csv.7z
+data/raw/dominicks/ccount_stata/ccount.dta
+data/raw/*.7z
+data/raw/*.zip
