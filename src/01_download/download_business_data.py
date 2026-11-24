@@ -3,7 +3,7 @@ Download the two business-plan datasets that have a free API.
 
 Run from the repo root with the venv active:
     $env:CENSUS_KEY="your_key"          # PowerShell, same key as before
-    python src/download_business_data.py
+    python src/01_download/download_business_data.py
 
 Outputs:
     data/raw/acs_indiana_zcta_2024.csv    ACS 2020-2024 5-year, Indiana ZIP areas
