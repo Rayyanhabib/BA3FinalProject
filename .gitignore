@@ -2,3 +2,8 @@
 __pycache__/
 .ipynb_checkpoints/
 kaggle.json
+# Processed CSVs over 100 MB (GitHub limit). Shared on Google Drive; see README.
+data/processed/favorita_clean.csv
+data/processed/favorita_food.csv
+data/processed/fresh_clean.csv
+data/processed/fresh_train.csv
