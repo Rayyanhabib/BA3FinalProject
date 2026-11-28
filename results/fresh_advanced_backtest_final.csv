@@ -1,0 +1,344 @@
+test,strategy,parameter,waste_pct,missed_pct
+A (uncensored days),Store habit: last week x (1+b),0.0,0.18930555231536483,0.18532297188794628
+A (uncensored days),Store habit: last week x (1+b),0.025,0.20448550687447498,0.17540336193637104
+A (uncensored days),Store habit: last week x (1+b),0.05,0.22001730251765136,0.16583559306886184
+A (uncensored days),Store habit: last week x (1+b),0.075,0.23601839445927206,0.15673712049979718
+A (uncensored days),Store habit: last week x (1+b),0.1,0.25249984151756644,0.148119003047406
+A (uncensored days),Store habit: last week x (1+b),0.125,0.26945905446474866,0.1399786514839028
+A (uncensored days),Store habit: last week x (1+b),0.15,0.2869107275616123,0.132330760070081
+A (uncensored days),Store habit: last week x (1+b),0.175,0.3048055145612792,0.12512598255906235
+A (uncensored days),Store habit: last week x (1+b),0.2,0.32310649033569866,0.11832739382279643
+A (uncensored days),Store habit: last week x (1+b),0.225,0.3418604598799776,0.1119817988563898
+A (uncensored days),Store habit: last week x (1+b),0.25,0.360954248732078,0.1059760231978048
+A (uncensored days),Store habit: last week x (1+b),0.275,0.3804802630038004,0.10040247295884185
+A (uncensored days),Store habit: last week x (1+b),0.3,0.40031964057824543,0.09514228602260126
+A (uncensored days),Store habit: last week x (1+b),0.325,0.4204691741802979,0.09019225511396833
+A (uncensored days),Store habit: last week x (1+b),0.35,0.4409612767506259,0.0855847931736107
+A (uncensored days),Store habit: last week x (1+b),0.375,0.46171924162724554,0.08124319353954501
+A (uncensored days),Store habit: last week x (1+b),0.4,0.48272372599023394,0.07714811339184804
+A (uncensored days),Store habit: last week x (1+b),0.425,0.5040063498103171,0.07333117270124559
+A (uncensored days),Store habit: last week x (1+b),0.45,0.525505886105704,0.06973114448594721
+A (uncensored days),Store habit: last week x (1+b),0.475,0.547199735524357,0.06632542939391459
+A (uncensored days),Store habit: last week x (1+b),0.5,0.5690400772578731,0.06306620661674522
+A (uncensored days),Store habit: last week x (1+b),0.525,0.5912102087498315,0.0601367735980182
+A (uncensored days),Store habit: last week x (1+b),0.55,0.6135042556577043,0.05733125599520544
+A (uncensored days),Store habit: last week x (1+b),0.575,0.6359535431634629,0.05468097899027864
+A (uncensored days),Store habit: last week x (1+b),0.6,0.6585520152200581,0.05217988653618844
+A (uncensored days),Store habit: last week x (1+b),0.625,0.6813207954176457,0.04984910222309053
+A (uncensored days),Store habit: last week x (1+b),0.65,0.7042150409117034,0.047643783206462786
+A (uncensored days),Store habit: last week x (1+b),0.675,0.7272428408360978,0.04557201862017158
+A (uncensored days),Store habit: last week x (1+b),0.7,0.7504160300450609,0.043645643318449286
+A (uncensored days),Store habit: last week x (1+b),0.725,0.7736926791497638,0.04182272791246675
+A (uncensored days),Store habit: last week x (1+b),0.75,0.7970600062726441,0.040090490524661584
+A (uncensored days),Store habit: last week x (1+b),0.775,0.82055746173744,0.03848838147877222
+A (uncensored days),Store habit: last week x (1+b),0.8,0.8441277313321084,0.0369590865627549
+A (uncensored days),Store habit: last week x (1+b),0.825,0.8678045191044739,0.035536309824434995
+A (uncensored days),Store habit: last week x (1+b),0.85,0.8915589540371557,0.03419118024643122
+A (uncensored days),Store habit: last week x (1+b),0.875,0.9153912874512994,0.032923949149889616
+A (uncensored days),Store habit: last week x (1+b),0.9,0.9392975749478585,0.03173067213576346
+A (uncensored days),Store habit: last week x (1+b),0.925,0.9632587531781915,0.030592285855410774
+A (uncensored days),Store habit: last week x (1+b),0.95,0.9872636109005509,0.029497579067084837
+A (uncensored days),Store habit: last week x (1+b),0.975,1.0113064685872164,0.0284408722430646
+A (uncensored days),Store habit: last week x (1+b),1.0,1.0353749044864602,0.027409743631623167
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.0,0.1589562985957458,0.1732098991261949
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.025,0.17270457923593932,0.1623145197796497
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.05,0.18702761349172717,0.15199389404869862
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.075,0.2019541987220223,0.14227681929225514
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.1,0.2174714403026532,0.13315040088614707
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.125,0.23353734973272083,0.12457265032947605
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.15,0.25013959491506116,0.11653123552507767
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.175,0.267235372531345,0.10898335315462265
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.2,0.2847892429220337,0.1018935635585727
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.225,0.3028149949538255,0.09527565560362557
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.25,0.3212606074813326,0.08907760814439399
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.275,0.3401376634750325,0.08331100415135513
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.3,0.35937874497988004,0.0779084256694638
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.325,0.3789679823655404,0.07285400306838553
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.35,0.3988984237070506,0.06814078442315678
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.375,0.41913975610071136,0.06373845683007885
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.4,0.43966744243425354,0.059622483176882346
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.425,0.46048164485641974,0.05579302561230958
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.45,0.48154738013497594,0.052215100904127135
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.475,0.5028434192185091,0.04886748000092139
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.5,0.5243425121769756,0.04572291297264923
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.525,0.5460932989590717,0.04283003976800653
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.55,0.568018141236593,0.04011122205878899
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.575,0.5901309649673195,0.037580385802776735
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.6,0.6124204915884559,0.03522625243717439
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.625,0.6348823871902146,0.033044488052194405
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.65,0.6574889514030292,0.03100739227827029
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.675,0.6802412449883646,0.02911602587686676
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.7,0.7031257172566922,0.027356838158455715
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.725,0.7261292063560464,0.025716667271071057
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.75,0.7492432001924728,0.024187001120758677
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.775,0.7724702907345845,0.022770431676131676
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.8,0.7957892086392315,0.021445689594039793
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.825,0.8192020517406285,0.020214872708698154
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.85,0.8426960255407676,0.019065186522098397
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.875,0.8662725012147162,0.0179980022093083
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.9,0.889930237223941,0.017012078231794472
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.925,0.9136559500349316,0.016094131056046113
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.95,0.9374409995389545,0.01523552057333025
+A (uncensored days),7-day average x (1+b)  [smart non-ML],0.975,0.9612818598178052,0.014432720865441964
+A (uncensored days),7-day average x (1+b)  [smart non-ML],1.0,0.9851616876912866,0.013668888752184832
+A (uncensored days),"Median x (1+b), no recovery",0.0,0.11556990492401119,0.16615552329138453
+A (uncensored days),"Median x (1+b), no recovery",0.025,0.12711894498295043,0.15396920380950815
+A (uncensored days),"Median x (1+b), no recovery",0.05,0.13939879325989316,0.1425136925456351
+A (uncensored days),"Median x (1+b), no recovery",0.075,0.15238323438211324,0.1317627741270396
+A (uncensored days),"Median x (1+b), no recovery",0.1,0.1660603051908124,0.12170448539492294
+A (uncensored days),"Median x (1+b), no recovery",0.125,0.18040806683380925,0.11231688749710424
+A (uncensored days),"Median x (1+b), no recovery",0.15,0.19539629556201454,0.10356975668449392
+A (uncensored days),"Median x (1+b), no recovery",0.175,0.2109974980084735,0.09543559959013709
+A (uncensored days),"Median x (1+b), no recovery",0.2,0.2271867066407137,0.08788944868156172
+A (uncensored days),"Median x (1+b), no recovery",0.225,0.24395224883875352,0.08091963133878576
+A (uncensored days),"Median x (1+b), no recovery",0.25,0.26125953935964924,0.0744915623188658
+A (uncensored days),"Median x (1+b), no recovery",0.275,0.27906930474623437,0.06856596816463545
+A (uncensored days),"Median x (1+b), no recovery",0.3,0.29734321239672673,0.06310451627431199
+A (uncensored days),"Median x (1+b), no recovery",0.325,0.3160369613995655,0.05806290573633518
+A (uncensored days),"Median x (1+b), no recovery",0.35,0.33513445698581673,0.05342504178177062
+A (uncensored days),"Median x (1+b), no recovery",0.375,0.35461414976034855,0.04916937501548684
+A (uncensored days),"Median x (1+b), no recovery",0.4,0.3744364698535558,0.045256335567878475
+A (uncensored days),"Median x (1+b), no recovery",0.425,0.3945706879989753,0.04165519417248221
+A (uncensored days),"Median x (1+b), no recovery",0.45,0.4149920805818416,0.038341227214532966
+A (uncensored days),"Median x (1+b), no recovery",0.475,0.43568841018584886,0.03530219727772439
+A (uncensored days),"Median x (1+b), no recovery",0.5,0.4566380550335259,0.032516482584585865
+A (uncensored days),"Median x (1+b), no recovery",0.525,0.4778311732239225,0.02997424123416692
+A (uncensored days),"Median x (1+b), no recovery",0.55,0.4992465906565114,0.027654299125940033
+A (uncensored days),"Median x (1+b), no recovery",0.575,0.5208711955061234,0.025543544434736373
+A (uncensored days),"Median x (1+b), no recovery",0.6,0.5426819024732739,0.02361889186107105
+A (uncensored days),"Median x (1+b), no recovery",0.625,0.5646677877375936,0.021869417584575276
+A (uncensored days),"Median x (1+b), no recovery",0.65,0.5868054350223503,0.020271705328516288
+A (uncensored days),"Median x (1+b), no recovery",0.675,0.6090775494531733,0.018808460218523594
+A (uncensored days),"Median x (1+b), no recovery",0.7,0.6314696238054023,0.017465175029936886
+A (uncensored days),"Median x (1+b), no recovery",0.725,0.6539735291291381,0.01623372081285702
+A (uncensored days),"Median x (1+b), no recovery",0.75,0.6765803438341293,0.01510517597703266
+A (uncensored days),"Median x (1+b), no recovery",0.775,0.6992741868319534,0.014063659434041227
+A (uncensored days),"Median x (1+b), no recovery",0.8,0.7220539123275098,0.01310802538878179
+A (uncensored days),"Median x (1+b), no recovery",0.825,0.7449145518773598,0.012233305397816155
+A (uncensored days),"Median x (1+b), no recovery",0.85,0.7678438521829256,0.011427246162566096
+A (uncensored days),"Median x (1+b), no recovery",0.875,0.7908369438156168,0.010684978254441856
+A (uncensored days),"Median x (1+b), no recovery",0.9,0.8138873431470672,0.010000018045076735
+A (uncensored days),"Median x (1+b), no recovery",0.925,0.8369923635458016,0.009369678902995225
+A (uncensored days),"Median x (1+b), no recovery",0.95,0.8601508128803259,0.008792768696703951
+A (uncensored days),"Median x (1+b), no recovery",0.975,0.8833553168927496,0.00826191316831177
+A (uncensored days),"Median x (1+b), no recovery",1.0,0.9066000269962282,0.0077712637309749295
+A (uncensored days),"Median x (1+b), with recovery",0.0,0.14902501627413162,0.13195408687028087
+A (uncensored days),"Median x (1+b), with recovery",0.025,0.16348221102778934,0.12098450838884246
+A (uncensored days),"Median x (1+b), with recovery",0.05,0.17875479964558527,0.11083032377154194
+A (uncensored days),"Median x (1+b), with recovery",0.075,0.19479055040553356,0.10143930129639409
+A (uncensored days),"Median x (1+b), with recovery",0.1,0.21155742203577477,0.09277939969153888
+A (uncensored days),"Median x (1+b), with recovery",0.125,0.22899161050885186,0.0847868149295198
+A (uncensored days),"Median x (1+b), with recovery",0.15,0.24706615570433485,0.07743458688990659
+A (uncensored days),"Median x (1+b), with recovery",0.175,0.2657369560360625,0.07067861398653787
+A (uncensored days),"Median x (1+b), with recovery",0.2,0.28498777299396283,0.06450265770934199
+A (uncensored days),"Median x (1+b), with recovery",0.225,0.3047724440557813,0.05886055553606409
+A (uncensored days),"Median x (1+b), with recovery",0.25,0.3250554828510861,0.053716821096272696
+A (uncensored days),"Median x (1+b), with recovery",0.275,0.3457864732452669,0.0490210382553573
+A (uncensored days),"Median x (1+b), with recovery",0.3,0.36695551750639904,0.044763309281393
+A (uncensored days),"Median x (1+b), with recovery",0.325,0.38851665818638936,0.04089767672628721
+A (uncensored days),"Median x (1+b), with recovery",0.35,0.4104410874533766,0.037395332758177996
+A (uncensored days),"Median x (1+b), with recovery",0.375,0.4326851809352619,0.03421265300496718
+A (uncensored days),"Median x (1+b), with recovery",0.4,0.45521648191422015,0.03131718074882917
+A (uncensored days),"Median x (1+b), with recovery",0.425,0.4780129997138935,0.028686925313406168
+A (uncensored days),"Median x (1+b), with recovery",0.45,0.5010574366484686,0.026304589012885102
+A (uncensored days),"Median x (1+b), with recovery",0.475,0.5243264740649489,0.024146853194269093
+A (uncensored days),"Median x (1+b), with recovery",0.5,0.5477965252808747,0.022190131175098653
+A (uncensored days),"Median x (1+b), with recovery",0.525,0.57144223391454,0.020409066573667683
+A (uncensored days),"Median x (1+b), with recovery",0.55,0.5952549244619451,0.018794983885976523
+A (uncensored days),"Median x (1+b), with recovery",0.575,0.6192077312575411,0.017321017446476145
+A (uncensored days),"Median x (1+b), with recovery",0.6,0.6432923872333931,0.015978900187231786
+A (uncensored days),"Median x (1+b), with recovery",0.625,0.667495466047297,0.014755205766039524
+A (uncensored days),"Median x (1+b), with recovery",0.65,0.691806247966012,0.013639214449658328
+A (uncensored days),"Median x (1+b), with recovery",0.675,0.7162147138216967,0.0126209070702467
+A (uncensored days),"Median x (1+b), with recovery",0.7,0.740715464618989,0.011694884632442656
+A (uncensored days),"Median x (1+b), with recovery",0.725,0.7652986049954636,0.010851251773821085
+A (uncensored days),"Median x (1+b), with recovery",0.75,0.789950839707793,0.010076713251054208
+A (uncensored days),"Median x (1+b), with recovery",0.775,0.8146741604957448,0.009373260803909865
+A (uncensored days),"Median x (1+b), with recovery",0.8,0.8394618952257412,0.008734222298809892
+A (uncensored days),"Median x (1+b), with recovery",0.825,0.8643010269199571,0.008146580757929634
+A (uncensored days),"Median x (1+b), with recovery",0.85,0.8891914777387389,0.007610258341614983
+A (uncensored days),"Median x (1+b), with recovery",0.875,0.914123212661733,0.007115220029512881
+A (uncensored days),"Median x (1+b), with recovery",0.9,0.9390961383865815,0.006661372519265195
+A (uncensored days),"Median x (1+b), with recovery",0.925,0.9641086275710364,0.006247088468623732
+A (uncensored days),"Median x (1+b), with recovery",0.95,0.9891565145145088,0.005868202176999966
+A (uncensored days),"Median x (1+b), with recovery",0.975,1.0142329435272912,0.005517857954686022
+A (uncensored days),"Median x (1+b), with recovery",1.0,1.0393368166008827,0.005194957793181139
+A (uncensored days),"Quantile q_tau, with recovery",0.5,0.14902501627413162,0.13195408687028087
+A (uncensored days),"Quantile q_tau, with recovery",0.6,0.20412344557744366,0.09647632766854525
+A (uncensored days),"Quantile q_tau, with recovery",0.7,0.2754618454284707,0.06660490110274775
+A (uncensored days),"Quantile q_tau, with recovery",0.8,0.3859505867665076,0.04008760550410195
+A (uncensored days),"Quantile q_tau, with recovery",0.9,0.5681563271329888,0.017620641279864083
+A (uncensored days),"Quantile q_tau, conformal-calibrated",0.5,0.17018442549915555,0.11620885150951221
+A (uncensored days),"Quantile q_tau, conformal-calibrated",0.6,0.2329303383278406,0.08228083272184845
+A (uncensored days),"Quantile q_tau, conformal-calibrated",0.7,0.29253731108384395,0.06095515482169347
+A (uncensored days),"Quantile q_tau, conformal-calibrated",0.8,0.3923200683680861,0.038748789879171824
+A (uncensored days),"Quantile q_tau, conformal-calibrated",0.9,0.5717482187208016,0.017314197192840986
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.0,0.13981723648027478,0.2808604569603369
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.025,0.1510982142980296,0.27066751529009336
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.05,0.16264264607518344,0.26073802757924863
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.075,0.1745575155714773,0.2511789775875442
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.1,0.18685811121793014,0.2420056537459984
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.125,0.1995566175893961,0.233230240629466
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.15,0.21265403810180641,0.22485374165387792
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.175,0.22612150961197383,0.21684729367604683
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.2,0.23993320217194491,0.20918506674801948
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.225,0.25412325426107996,0.20190119934915596
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.25,0.2686089481646533,0.194912973764731
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.275,0.2834601246099191,0.18829023072199835
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.3,0.2985965534621538,0.18195274008623458
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.325,0.31401576684520877,0.1758980339812912
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.35,0.32973960591394,0.17014795356202383
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.375,0.34572723924058246,0.16466166740066793
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.4,0.3619600007668741,0.15942050943896124
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.425,0.37845848927200354,0.154445078456092
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.45,0.3951817210984925,0.1496943907945826
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.475,0.41211872326924803,0.14515747347733965
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.5,0.42922199962428287,0.14078683034437608
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.525,0.4466272456040898,0.13671815683618455
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.55,0.46418227447148963,0.13279926621558585
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.575,0.4819057420579287,0.1290488143140266
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.6,0.49979616893018414,0.1254653216982836
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.625,0.5178682619457305,0.1220634952258315
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.65,0.5360873442153417,0.11880865800744414
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.675,0.5544502438501183,0.11569763815422238
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.7,0.5729683700653304,0.11274184488143615
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.725,0.591612478693837,0.10991203402194415
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.75,0.6103681997061391,0.10719383554624788
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.775,0.629265375886828,0.10461709223893835
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.8,0.6482600353911472,0.10213783225525899
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.825,0.6673742764703403,0.09977815384645375
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.85,0.686585326921546,0.09751528480966075
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.875,0.7058923479237995,0.09534838632391597
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.9,0.7252902748463822,0.09327239375850034
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.925,0.7447672803703641,0.09127547979448361
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.95,0.7643132671519065,0.08934754708802783
+"B (all days, recovered truth)",Store habit: last week x (1+b),0.975,0.783921930772018,0.08748229122014071
+"B (all days, recovered truth)",Store habit: last week x (1+b),1.0,0.8035864728323934,0.08567291379251767
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.0,0.10620998416613286,0.25130869671439915
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.025,0.11579058449359365,0.23951676485556664
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.05,0.12587467915398803,0.2282283273296676
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.075,0.13644806340985205,0.21742917939923834
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.1,0.1475037705090457,0.2071123543121385
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.125,0.15902698213304928,0.1972630337498488
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.15,0.17100564427717146,0.1878691637076778
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.175,0.18341172376694828,0.1789027110111611
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.2,0.19623385674476163,0.1703523118026812
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.225,0.20945804431579731,0.1622039671874234
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.25,0.22307214497384964,0.15444553565918254
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.275,0.23706432066788433,0.14706517916692388
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.3,0.25141932029095004,0.14004764660369617
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.325,0.2661105793919044,0.13336637351835728
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.35,0.28112311795201944,0.12700637989217883
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.375,0.2964503426444337,0.12096107239829984
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.4,0.31207532298191587,0.11521352054948873
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.425,0.3280031321898758,0.10976879757115524
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.45,0.3441877113732278,0.10458084456821393
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.475,0.3606303826722683,0.09965098368096104
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.5,0.3773171436067952,0.0949652124291946
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.525,0.3942408942992854,0.09051643093539148
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.55,0.4113835682902793,0.08628657274009192
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.575,0.4287389755266254,0.0822694477901448
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.6,0.446298936689193,0.07845687676641902
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.625,0.46405496584320655,0.07484037373413928
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.65,0.4819918902226116,0.07140476592725101
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.675,0.5001054869158316,0.06814583043417749
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.7,0.5183849119226787,0.06505272325473134
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.725,0.5368246429711225,0.06211992211688182
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.75,0.5554048288892813,0.05932757584874726
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.775,0.5741428212927158,0.056693036065888554
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.8,0.5930034198551727,0.054181102442051966
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.825,0.6119919754606662,0.05179712586125228
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.85,0.6310949945165224,0.049527612730814914
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.875,0.6503086489547553,0.04736873498275459
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.9,0.6696295872115101,0.04531714105321605
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.925,0.6890571241694196,0.04337214582483212
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.95,0.708581633196471,0.04152412266559023
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],0.975,0.7282023730230874,0.03977233030591316
+"B (all days, recovered truth)",7-day average x (1+b)  [smart non-ML],1.0,0.7479095847819403,0.0381070098784728
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.0,0.07764441156758975,0.24409294959136893
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.025,0.08573640315223412,0.23134615462660785
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.05,0.09438507761579473,0.21915604254076285
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.075,0.1035776014776617,0.20750977985322439
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.1,0.11331668261077535,0.19641007443693242
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.125,0.12359066784079918,0.18584527311755078
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.15,0.1343813296392099,0.17579714836655605
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.175,0.14567410887771715,0.16625114105565766
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.2,0.15746318948336438,0.15720143511189946
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.225,0.1697440115816811,0.14864347066081052
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.25,0.18249362747366535,0.14055430000338937
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.275,0.19569633852508678,0.1329182245054053
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.3,0.2093224165525066,0.1257055159834195
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.325,0.2233464941446051,0.11889080702611256
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.35,0.2377520430388051,0.11245756937090692
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.375,0.25252373272044953,0.10639047250314596
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.4,0.2676293948285299,0.10065734806182082
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.425,0.28305631231855155,0.09524547900243682
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.45,0.2987824737614363,0.09013285389591617
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.475,0.31479320179446574,0.08530479537954
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.5,0.33108085719614155,0.08075366423181037
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.525,0.34763117380158015,0.07646519428784351
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.55,0.3644279220471954,0.07242315598405312
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.575,0.38145842379279804,0.06861487118025032
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.6,0.3987101169424325,0.06502777778047919
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.625,0.41617411900306417,0.061652993291705316
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.65,0.4338321365016408,0.058472224240876586
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.675,0.45167008515672497,0.05547138634655504
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.7,0.46967618604246963,0.05263870068289429
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.725,0.48783911149248654,0.049962839583505544
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.75,0.5061535442354825,0.047438485777096195
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.775,0.5246075984033529,0.0450537533955611
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.8,0.5431968887521886,0.04280425719499121
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.825,0.561908510161078,0.04067709205447506
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.85,0.5807349892831856,0.038664784627177
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.875,0.5996709961139951,0.03676200490858117
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.9,0.618710476126892,0.034962698372072554
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.925,0.63784778350803,0.033261219203804857
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.95,0.6570767255765684,0.03165137472293778
+"B (all days, recovered truth)","Median x (1+b), no recovery",0.975,0.6763904544820659,0.03012631707902976
+"B (all days, recovered truth)","Median x (1+b), no recovery",1.0,0.6957860449738317,0.028683121021390083
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.0,0.10153693896748993,0.19755768334080945
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.025,0.111987324760633,0.18540858774328559
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.05,0.12309999800709569,0.17392177959908114
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.075,0.13484726745302789,0.16306956765434644
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.1,0.14721528135263293,0.1528381001632843
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.125,0.16016773181049793,0.14319106923048242
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.15,0.17368691624948163,0.13411077227879917
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.175,0.18774340403099815,0.12556777866964858
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.2,0.20233172964144705,0.11755662288943051
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.225,0.21742814275246025,0.11005355460977662
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.25,0.23300923682491914,0.10303516729156853
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.275,0.24903938064597445,0.09646582972195693
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.3,0.26550819255384983,0.09033516023916523
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.325,0.2823795047219892,0.08460699101663763
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.35,0.29963501346727506,0.07926301837125638
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.375,0.31724216400925886,0.07427068752257325
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.4,0.3351759210257642,0.06960496314841164
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.425,0.3534147984666633,0.06524435919864364
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.45,0.3719411415923564,0.06117122093366978
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.475,0.39073931613869606,0.05736991408934225
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.5,0.409794973229313,0.053826089789292264
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.525,0.4290812438372477,0.050512879006560124
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.55,0.4485868392157754,0.047418992994420664
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.575,0.46828996474190093,0.04452263712987923
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.6,0.48818657701478557,0.041819768012096754
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.625,0.5082622707036325,0.03929598031027676
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.65,0.5285017861558344,0.03693601437181169
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.675,0.5488935046538672,0.034728251479177394
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.7,0.5694273617048927,0.032662627139536
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.725,0.5900948990023477,0.03073068304632388
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.75,0.6108840780176957,0.028920380671004966
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.775,0.631792014473944,0.027228835736586146
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.8,0.6528122038659294,0.0256495437379045
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.825,0.6739308706330283,0.024168729114336488
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.85,0.6951457907590797,0.02278416784972075
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.875,0.7164460529531328,0.021484948653106992
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.9,0.7378282788092367,0.020267693118543963
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.925,0.7592899737896746,0.01912990670831464
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.95,0.7808254949107477,0.0180659464387208
+"B (all days, recovered truth)","Median x (1+b), with recovery",0.975,0.8024251162270628,0.017066086364368852
+"B (all days, recovered truth)","Median x (1+b), with recovery",1.0,0.824084935397534,0.01612642414417319
+"B (all days, recovered truth)","Quantile q_tau, with recovery",0.5,0.10153693896748993,0.19755768334080945
+"B (all days, recovered truth)","Quantile q_tau, with recovery",0.6,0.1404499594013038,0.157693013334672
+"B (all days, recovered truth)","Quantile q_tau, with recovery",0.7,0.1914841592964009,0.12085664310305556
+"B (all days, recovered truth)","Quantile q_tau, with recovery",0.8,0.2742888487324421,0.08319663860319064
+"B (all days, recovered truth)","Quantile q_tau, with recovery",0.9,0.4160522901580893,0.04568376271224405
